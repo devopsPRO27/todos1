@@ -11,7 +11,7 @@ write 3 tests:
 
 
 2 - send a Get request https://jsonplaceholder.typicode.com/todos/1
-convert the response to todo object and check if the titile in the 2 todos equals 
+convert the response to todo object and check if the titile equals the thitle of the  second todos  
 
 
 3 - check if the user that made the 44 todo exists (by user id tohttps://jsonplaceholder.typicode.com/users/{user_id}
